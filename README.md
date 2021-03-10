@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an aspiring developer interested in web and game development. I also like data visualization.
+I am an aspiring developer and current college student enrolled in a B.S. in Statistics program. I am interested in various fields such as web development, game development, and data visualization.
 
 <!--
 **CSHoffmann/CSHoffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
